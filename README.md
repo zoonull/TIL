@@ -12,5 +12,5 @@
 
 ## RULE
 
-- 문서의 경우는 Docs :: file status, file name, comment 순으로 메세지 작성 밋 커밋
-- 파일의 경우는 File :: file status, file name, comment 순으로 메세지 작성 밋 커밋
+- 문서의 경우는 Docs :: file status, file name, comment 순으로 메세지 작성 및 커밋
+- 파일의 경우는 File :: file status, file name, comment 순으로 메세지 작성 및 커밋
